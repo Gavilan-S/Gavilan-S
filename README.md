@@ -1,5 +1,5 @@
 <div>
-  <a><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=25&letterSpacing=0.025em&duration=3500&pause=1500&color=F7F7F7&width=476&height=40&lines=Hi+There!+%F0%9F%A4%9A;I'm+Santiago+Gavil%C3%A1n+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Computer+Engineering+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=25&letterSpacing=0.025em&duration=3500&pause=1500&color=F7F7F7&width=460&height=40&lines=Hi+There!;I'm+Gvln-S;Cybersecurity+Analyst" alt="Typing SVG"/></a>
 </div>
 
 <div>
@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a **Computer Engineering Student** with a strong focus on Backend Development, Cybersecurity, and Network Diagnostics. I am passionate about optimizing development environments (as seen in my custom Neovim configurations) and building robust web applications.
+I am a **Cybersecurity Analyst** with a strong focus on Network Diagnostics.
 
 * **I’m currently working on:** **Gvln-OS**, a minimalist 32-bit x86 kernel built from scratch.
 * **I’m currently learning:** **OSDev** (low-level software-hardware interaction), Advanced **Cybersecurity** protocols and expanding my knowledge in **Cloud Architecture**.
@@ -32,5 +32,5 @@ I am a **Computer Engineering Student** with a strong focus on Backend Developme
 | **Tools** | Neovim (Advanced Config), QEMU, Git, i686-elf-gcc, CMake, Maven/Gradle |
 
 <div>
-  <p><i>Open to opportunities in IT infrastructure, IT architecture planning, cybersecurity, and back-end development.</i></p>
+  <p><i>Open to opportunities in IT infrastructure, IT architecture planning, and cybersecurity.</i></p>
 </div>
